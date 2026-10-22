@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tailwindcss-server": {
+      "command": "tailwindcss-server",
+      "args": []
+    }
+  }
+}
